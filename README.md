@@ -32,8 +32,17 @@
 ## Начало работы
 
 Для установки скачайте необходимую версию с [https://github.com/NeGaPuPe/Cursovaya]
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
+
+<!-- LICENSE -->
+## Лицензия
+
+Распространяется по лицензии MIT. Смотрите `LICENSE.txt` для получения дополнительной информации.
+
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 <!-- CONTACT INFO -->
 ## Контакты
 
 Почта для связи - goshanmarket@mail.ru
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
