@@ -39,27 +39,11 @@
 <!-- USAGE EXAMPLES -->
 ## Использование приложения для клиента
 
-Клиент может авторизоваться, зарегистрироваться, а также восстановить свой пароль.
-
-<img src="GoshanMarket/Images/Authtorization.png" alt="AllCasePage" width="800" height="450">
-
 На главной странице можно посмотреть каталог товаров супермаркета.
 
 <img src="GoshanMarket/Images/MainPageApp.png" alt="AllCasePage" width="800" height="450">
 
-При выборе одной из категории появляется список товаров этой категории. 
-
-<img src="GoshanMarket/Images/CategoryProduct.png" alt="AddCasePage" width="800" height="450">
-
-Двойным нажатием по товару можно перейти на страницу с его описанием.
-
-<img src="GoshanMarket/Images/DescriptionProduct.png" alt="AllQueryPage" width="800" height="450">
-
-Нажатием правой кнопки мыши по иконке с именем можно перейти в свой профиль.
-
-<img src="GoshanMarket/Images/ProfileClient.png" alt="AllQueryPage" width="800" height="450">
-
-Понравившейся товар при нажатии на сердечко добавляется в избранное.
+Понравившейся товар при нажатии на ❤ добавляется в избранное.
 
 <img src="GoshanMarket/Images/FavouritesClient.png" alt="AllQueryPage" width="800" height="450">
 
@@ -77,8 +61,39 @@
 
 <img src="GoshanMarket/Images/ClientOrders.png" alt="AllQueryPage" width="800" height="450">
 
+А при нажатии на заказ можно посмотреть какие товары в этом заказе.
+
+<img src="GoshanMarket/Images/ProductsInOrder.png" alt="AllQueryPage" width="800" height="450">
+
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
-------------------------------------------------------------
+
+<!-- USAGE EXAMPLES -->
+## Использование приложения для сотрудника
+
+После авторизации сотрудник в зависимости от своей должности имеет некий функционал.
+<p>Функционал менеджера по персоналу включает в себя: удаление\добавление\измнение информации о сотруднике.</p>
+
+<img src="GoshanMarket/Images/AllEmployees.png" alt="AllCasePage" width="800" height="450">
+
+<img src="GoshanMarket/Images/AddNewEmployee.png" alt="AllCasePage" width="800" height="450">
+
+<img src="GoshanMarket/Images/ChangeInfoEmployee.png" alt="AllCasePage" width="800" height="450">
+
+<p>Функционал продавца включает в себя: изменение статуса заказа\отслеживание заказов клиентов.</p>
+
+<img src="GoshanMarket/Images/OrdersClient.png" alt="AllCasePage" width="800" height="450">
+
+<img src="GoshanMarket/Images/ChangeStatusOrder.png" alt="AllCasePage" width="800" height="450">
+
+<p>Функционал товароведа включает в себя: удаление\добавление\измнение информации о товаре.</p>
+
+<img src="GoshanMarket/Images/AllProducts.png" alt="AllCasePage" width="800" height="450">
+
+<img src="GoshanMarket/Images/AddNewProduct.png" alt="AllCasePage" width="800" height="450">
+
+<img src="GoshanMarket/Images/ChangeInfoProduct.png" alt="AllCasePage" width="800" height="450">
+
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 <!-- PROJECTPOST INFO -->
 <br />
