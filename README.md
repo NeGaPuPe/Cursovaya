@@ -41,7 +41,7 @@
 
 <img src="GoshanMarket/Images/Authtorization.png" alt="AllCasePage" width="800" height="450">
 
-На главной странице клиент может посмотреть каталог товаров супермаркета.
+На главной странице можно посмотреть каталог товаров супермаркета.
 
 <img src="GoshanMarket/Images/MainPageApp.png" alt="AllCasePage" width="800" height="450">
 
@@ -57,7 +57,7 @@
 
 <img src="GoshanMarket/Images/ProfileClient.png" alt="AllQueryPage" width="800" height="450">
 
-Понравившейся товар можно добавить в избранное при нажатии на сердечко.
+Понравившейся товар при нажатии на сердечко добавляется в избранное.
 
 <img src="GoshanMarket/Images/FavouritesClient.png" alt="AllQueryPage" width="800" height="450">
 
@@ -65,13 +65,13 @@
 
 <img src="GoshanMarket/Images/BasketClient.png" alt="AllQueryPage" width="800" height="450">
 
-При оформлении заказа клиент выбирает пункт самовывоза, а также может посмотреть их местоположение на карте.
+При оформлении заказа клиент выбирает пункт самовывоза, а также может посмотреть его местоположение на карте.
 
 <img src="GoshanMarket/Images/ExecuteOrder.png" alt="AllQueryPage" width="800" height="450">
 
 <img src="GoshanMarket/Images/YandexMap.png" alt="AllQueryPage" width="800" height="450">
 
-После оформления заказа можно перейти к «Мои заказы», где отобразятся все заказы клиента, с отслеживанием статуса заказа.
+После оформления заказа можно перейти к «Мои заказы», где отобразятся все заказы, с отслеживанием статуса заказа.
 
 <img src="GoshanMarket/Images/ClientOrders.png" alt="AllQueryPage" width="800" height="450">
 
